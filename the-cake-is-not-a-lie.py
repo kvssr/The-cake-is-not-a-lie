@@ -1,4 +1,4 @@
-def solution2(seq):	
+def solution(seq):	
 	seq = seq.replace(" ", "")
 	t = ''
 	for c in seq:
